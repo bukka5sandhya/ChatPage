@@ -1,0 +1,46 @@
+*{
+    margin:0px;
+    box-sizing: border-box;
+}
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    background-size:cover;
+    height:100vh;
+}
+.container{
+    background-color: #323f4b;
+    height:50px;
+
+}
+.main-heading{
+    text-align: center;
+    padding:10px;
+    font-family: "Roboto";
+    font-size:20px;
+    color:#ffffff;
+    font-weight:bold;
+}
+.rahul-chat{
+    margin:20px;
+    padding:20px;
+    border-radius:8px;
+    border-width: 0px;
+    background-color: #47a3f3;
+    font-family: "Roboto";
+    font-size:15px;
+    color:#ffffff;
+    text-align:right;
+    height:50px;
+}
+.varakumar-chat{
+    margin:20px;
+    padding:20px;
+    border-radius:8px;
+    border-width: 0px;
+    background-color: #52606d;
+    font-family: "Roboto";
+    font-size:15px;
+    color:#ffffff;
+    text-align:left;
+    height:50px;
+}
